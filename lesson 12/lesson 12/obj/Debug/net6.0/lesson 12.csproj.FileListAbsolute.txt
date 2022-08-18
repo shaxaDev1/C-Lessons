@@ -1,0 +1,19 @@
+C:\Users\Shahzod\Desktop\C#\lesson 12\lesson 12\obj\Debug\net6.0\lesson 12.csproj.AssemblyReference.cache
+C:\Users\Shahzod\Desktop\C#\lesson 12\lesson 12\obj\Debug\net6.0\lesson 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahzod\Desktop\C#\lesson 12\lesson 12\obj\Debug\net6.0\lesson 12.AssemblyInfoInputs.cache
+C:\Users\Shahzod\Desktop\C#\lesson 12\lesson 12\obj\Debug\net6.0\lesson 12.AssemblyInfo.cs
+C:\Users\Shahzod\Desktop\C#\lesson 12\lesson 12\obj\Debug\net6.0\lesson 12.csproj.CoreCompileInputs.cache
+C:\Users\Shahzod\Desktop\C#\lesson 12\lesson 12\bin\Debug\net6.0\lesson 12.exe
+C:\Users\Shahzod\Desktop\C#\lesson 12\lesson 12\bin\Debug\net6.0\lesson 12.deps.json
+C:\Users\Shahzod\Desktop\C#\lesson 12\lesson 12\bin\Debug\net6.0\lesson 12.runtimeconfig.json
+C:\Users\Shahzod\Desktop\C#\lesson 12\lesson 12\bin\Debug\net6.0\lesson 12.dll
+C:\Users\Shahzod\Desktop\C#\lesson 12\lesson 12\bin\Debug\net6.0\lesson 12.pdb
+C:\Users\Shahzod\Desktop\C#\lesson 12\lesson 12\obj\Debug\net6.0\lesson 12.dll
+C:\Users\Shahzod\Desktop\C#\lesson 12\lesson 12\obj\Debug\net6.0\refint\lesson 12.dll
+C:\Users\Shahzod\Desktop\C#\lesson 12\lesson 12\obj\Debug\net6.0\lesson 12.pdb
+C:\Users\Shahzod\Desktop\C#\lesson 12\lesson 12\obj\Debug\net6.0\lesson 12.genruntimeconfig.cache
+C:\Users\Shahzod\Desktop\C#\lesson 12\lesson 12\obj\Debug\net6.0\ref\lesson 12.dll
+C:\Users\Shahzod\Desktop\C#\lesson 12\lesson 12\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Shahzod\Desktop\C#\lesson 12\lesson 12\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\Shahzod\Desktop\C#\lesson 12\lesson 12\bin\Debug\net6.0\Telegram.Bot.Extensions.Polling.dll
+C:\Users\Shahzod\Desktop\C#\lesson 12\lesson 12\obj\Debug\net6.0\lesson 12.csproj.CopyComplete
