@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "U2Jv/sUpUa6is/8a70QveLOnWioh14GWmQHvleJ8zvOOdWVRA7GS+zMDGv/0JkzuDouC0LvOAGzdfL5wgnt9jw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Shahzod\\Desktop\\C#\\lesson 2\\lesson 2\\lesson 2.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Не удалось найти пакет Swashbuckle.AspNetCore. Пакеты с таким идентификатором отсутствуют в следующих источниках пакетов: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

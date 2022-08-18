@@ -1,0 +1,15 @@
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollar\bin\Debug\net6.0\savollar.exe
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollar\bin\Debug\net6.0\savollar.deps.json
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollar\bin\Debug\net6.0\savollar.runtimeconfig.json
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollar\bin\Debug\net6.0\savollar.dll
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollar\bin\Debug\net6.0\savollar.pdb
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollar\obj\Debug\net6.0\savollar.csproj.AssemblyReference.cache
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollar\obj\Debug\net6.0\savollar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollar\obj\Debug\net6.0\savollar.AssemblyInfoInputs.cache
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollar\obj\Debug\net6.0\savollar.AssemblyInfo.cs
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollar\obj\Debug\net6.0\savollar.csproj.CoreCompileInputs.cache
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollar\obj\Debug\net6.0\savollar.dll
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollar\obj\Debug\net6.0\refint\savollar.dll
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollar\obj\Debug\net6.0\savollar.pdb
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollar\obj\Debug\net6.0\savollar.genruntimeconfig.cache
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollar\obj\Debug\net6.0\ref\savollar.dll

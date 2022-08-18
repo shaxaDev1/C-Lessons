@@ -1,0 +1,15 @@
+C:\Users\Shahzod\Desktop\C#\lesson3\lesson3\bin\Debug\net6.0\lesson3.exe
+C:\Users\Shahzod\Desktop\C#\lesson3\lesson3\bin\Debug\net6.0\lesson3.deps.json
+C:\Users\Shahzod\Desktop\C#\lesson3\lesson3\bin\Debug\net6.0\lesson3.runtimeconfig.json
+C:\Users\Shahzod\Desktop\C#\lesson3\lesson3\bin\Debug\net6.0\lesson3.dll
+C:\Users\Shahzod\Desktop\C#\lesson3\lesson3\bin\Debug\net6.0\lesson3.pdb
+C:\Users\Shahzod\Desktop\C#\lesson3\lesson3\obj\Debug\net6.0\lesson3.csproj.AssemblyReference.cache
+C:\Users\Shahzod\Desktop\C#\lesson3\lesson3\obj\Debug\net6.0\lesson3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahzod\Desktop\C#\lesson3\lesson3\obj\Debug\net6.0\lesson3.AssemblyInfoInputs.cache
+C:\Users\Shahzod\Desktop\C#\lesson3\lesson3\obj\Debug\net6.0\lesson3.AssemblyInfo.cs
+C:\Users\Shahzod\Desktop\C#\lesson3\lesson3\obj\Debug\net6.0\lesson3.csproj.CoreCompileInputs.cache
+C:\Users\Shahzod\Desktop\C#\lesson3\lesson3\obj\Debug\net6.0\lesson3.dll
+C:\Users\Shahzod\Desktop\C#\lesson3\lesson3\obj\Debug\net6.0\refint\lesson3.dll
+C:\Users\Shahzod\Desktop\C#\lesson3\lesson3\obj\Debug\net6.0\lesson3.pdb
+C:\Users\Shahzod\Desktop\C#\lesson3\lesson3\obj\Debug\net6.0\lesson3.genruntimeconfig.cache
+C:\Users\Shahzod\Desktop\C#\lesson3\lesson3\obj\Debug\net6.0\ref\lesson3.dll

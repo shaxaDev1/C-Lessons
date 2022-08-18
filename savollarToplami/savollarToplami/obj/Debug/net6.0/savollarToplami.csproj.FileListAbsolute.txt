@@ -1,0 +1,15 @@
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollarToplami\bin\Debug\net6.0\savollarToplami.exe
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollarToplami\bin\Debug\net6.0\savollarToplami.deps.json
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollarToplami\bin\Debug\net6.0\savollarToplami.runtimeconfig.json
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollarToplami\bin\Debug\net6.0\savollarToplami.dll
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollarToplami\bin\Debug\net6.0\savollarToplami.pdb
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollarToplami\obj\Debug\net6.0\savollarToplami.csproj.AssemblyReference.cache
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollarToplami\obj\Debug\net6.0\savollarToplami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollarToplami\obj\Debug\net6.0\savollarToplami.AssemblyInfoInputs.cache
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollarToplami\obj\Debug\net6.0\savollarToplami.AssemblyInfo.cs
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollarToplami\obj\Debug\net6.0\savollarToplami.csproj.CoreCompileInputs.cache
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollarToplami\obj\Debug\net6.0\savollarToplami.dll
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollarToplami\obj\Debug\net6.0\refint\savollarToplami.dll
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollarToplami\obj\Debug\net6.0\savollarToplami.pdb
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollarToplami\obj\Debug\net6.0\savollarToplami.genruntimeconfig.cache
+C:\Users\Shahzod\Desktop\C#\savollarToplami\savollarToplami\obj\Debug\net6.0\ref\savollarToplami.dll

@@ -1,0 +1,15 @@
+C:\Users\Shahzod\Desktop\C#\savollarToplami\SAVOL\bin\Debug\net6.0\SAVOL.exe
+C:\Users\Shahzod\Desktop\C#\savollarToplami\SAVOL\bin\Debug\net6.0\SAVOL.deps.json
+C:\Users\Shahzod\Desktop\C#\savollarToplami\SAVOL\bin\Debug\net6.0\SAVOL.runtimeconfig.json
+C:\Users\Shahzod\Desktop\C#\savollarToplami\SAVOL\bin\Debug\net6.0\SAVOL.dll
+C:\Users\Shahzod\Desktop\C#\savollarToplami\SAVOL\bin\Debug\net6.0\SAVOL.pdb
+C:\Users\Shahzod\Desktop\C#\savollarToplami\SAVOL\obj\Debug\net6.0\SAVOL.csproj.AssemblyReference.cache
+C:\Users\Shahzod\Desktop\C#\savollarToplami\SAVOL\obj\Debug\net6.0\SAVOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahzod\Desktop\C#\savollarToplami\SAVOL\obj\Debug\net6.0\SAVOL.AssemblyInfoInputs.cache
+C:\Users\Shahzod\Desktop\C#\savollarToplami\SAVOL\obj\Debug\net6.0\SAVOL.AssemblyInfo.cs
+C:\Users\Shahzod\Desktop\C#\savollarToplami\SAVOL\obj\Debug\net6.0\SAVOL.csproj.CoreCompileInputs.cache
+C:\Users\Shahzod\Desktop\C#\savollarToplami\SAVOL\obj\Debug\net6.0\SAVOL.dll
+C:\Users\Shahzod\Desktop\C#\savollarToplami\SAVOL\obj\Debug\net6.0\refint\SAVOL.dll
+C:\Users\Shahzod\Desktop\C#\savollarToplami\SAVOL\obj\Debug\net6.0\SAVOL.pdb
+C:\Users\Shahzod\Desktop\C#\savollarToplami\SAVOL\obj\Debug\net6.0\SAVOL.genruntimeconfig.cache
+C:\Users\Shahzod\Desktop\C#\savollarToplami\SAVOL\obj\Debug\net6.0\ref\SAVOL.dll

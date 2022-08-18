@@ -1,0 +1,15 @@
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\msol_25\bin\Debug\net6.0\msol_25.exe
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\msol_25\bin\Debug\net6.0\msol_25.deps.json
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\msol_25\bin\Debug\net6.0\msol_25.runtimeconfig.json
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\msol_25\bin\Debug\net6.0\msol_25.dll
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\msol_25\bin\Debug\net6.0\msol_25.pdb
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\msol_25\obj\Debug\net6.0\msol_25.csproj.AssemblyReference.cache
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\msol_25\obj\Debug\net6.0\msol_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\msol_25\obj\Debug\net6.0\msol_25.AssemblyInfoInputs.cache
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\msol_25\obj\Debug\net6.0\msol_25.AssemblyInfo.cs
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\msol_25\obj\Debug\net6.0\msol_25.csproj.CoreCompileInputs.cache
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\msol_25\obj\Debug\net6.0\msol_25.dll
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\msol_25\obj\Debug\net6.0\refint\msol_25.dll
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\msol_25\obj\Debug\net6.0\msol_25.pdb
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\msol_25\obj\Debug\net6.0\msol_25.genruntimeconfig.cache
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\msol_25\obj\Debug\net6.0\ref\msol_25.dll

@@ -1,0 +1,15 @@
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\MASSALALAR\bin\Debug\net6.0\MASSALALAR.exe
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\MASSALALAR\bin\Debug\net6.0\MASSALALAR.deps.json
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\MASSALALAR\bin\Debug\net6.0\MASSALALAR.runtimeconfig.json
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\MASSALALAR\bin\Debug\net6.0\MASSALALAR.dll
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\MASSALALAR\bin\Debug\net6.0\MASSALALAR.pdb
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\MASSALALAR\obj\Debug\net6.0\MASSALALAR.csproj.AssemblyReference.cache
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\MASSALALAR\obj\Debug\net6.0\MASSALALAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\MASSALALAR\obj\Debug\net6.0\MASSALALAR.AssemblyInfoInputs.cache
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\MASSALALAR\obj\Debug\net6.0\MASSALALAR.AssemblyInfo.cs
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\MASSALALAR\obj\Debug\net6.0\MASSALALAR.csproj.CoreCompileInputs.cache
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\MASSALALAR\obj\Debug\net6.0\MASSALALAR.dll
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\MASSALALAR\obj\Debug\net6.0\refint\MASSALALAR.dll
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\MASSALALAR\obj\Debug\net6.0\MASSALALAR.pdb
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\MASSALALAR\obj\Debug\net6.0\MASSALALAR.genruntimeconfig.cache
+C:\Users\Shahzod\Desktop\C#\MASSALALAR\MASSALALAR\obj\Debug\net6.0\ref\MASSALALAR.dll
