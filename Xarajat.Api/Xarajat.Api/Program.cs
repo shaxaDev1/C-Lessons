@@ -14,6 +14,7 @@ builder.Services.AddDbContext<XarajatDbContext>(option =>
 });
 var app = builder.Build();
 
+app.UseCors();
 app.UseSwagger();
 app.UseSwaggerUI();
 

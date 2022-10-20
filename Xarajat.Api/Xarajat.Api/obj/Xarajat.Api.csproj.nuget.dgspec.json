@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shahzod\\Desktop\\Darsliklar\\Xarajat.Api\\Xarajat.Api\\Xarajat.Api.csproj": {}
+    "C:\\Users\\Shahzod\\Desktop\\C-Lessons\\Xarajat.Api\\Xarajat.Api\\Xarajat.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shahzod\\Desktop\\Darsliklar\\Xarajat.Api\\Xarajat.Api\\Xarajat.Api.csproj": {
+    "C:\\Users\\Shahzod\\Desktop\\C-Lessons\\Xarajat.Api\\Xarajat.Api\\Xarajat.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shahzod\\Desktop\\Darsliklar\\Xarajat.Api\\Xarajat.Api\\Xarajat.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Shahzod\\Desktop\\C-Lessons\\Xarajat.Api\\Xarajat.Api\\Xarajat.Api.csproj",
         "projectName": "Xarajat.Api",
-        "projectPath": "C:\\Users\\Shahzod\\Desktop\\Darsliklar\\Xarajat.Api\\Xarajat.Api\\Xarajat.Api.csproj",
+        "projectPath": "C:\\Users\\Shahzod\\Desktop\\C-Lessons\\Xarajat.Api\\Xarajat.Api\\Xarajat.Api.csproj",
         "packagesPath": "C:\\Users\\Shahzod\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shahzod\\Desktop\\Darsliklar\\Xarajat.Api\\Xarajat.Api\\obj\\",
+        "outputPath": "C:\\Users\\Shahzod\\Desktop\\C-Lessons\\Xarajat.Api\\Xarajat.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shahzod\\AppData\\Roaming\\NuGet\\NuGet.Config",

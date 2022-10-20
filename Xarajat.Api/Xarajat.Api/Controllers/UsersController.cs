@@ -83,34 +83,3 @@ public class UsersController : ControllerBase
 
 
 
-
-
-//    [HttpGet("{id}")]
-//    public User GetUsers(int id) => new User(){Id = id, Name = "name"};
-
-//    [HttpGet("sorted")]
-//    public List<User> GetUsersSorted()
-//    {
-//        return new List<User>()
-//        {
-//            new User() {Id = 1, Name = "ism1"},
-//            new User() {Id = 3, Name = "ism3"}
-//        };
-//    }
-
-
-//    [HttpPost]
-//    public User AddUser(User user) => user;
-
-//    [HttpPut("{id}")]
-//    public User PutUser(int id, User user)
-//    {
-//        return user;
-//    } 
-
-//    [HttpDelete("{id}")]
-//    public string DeleteUser(int id)
-//    {
-//        return id.ToString();
-//    }
-//

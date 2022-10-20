@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kgOkG7J65UryhUfZ49aGCySF95Pdwl/ybcvXqQfr6ol3VMbADJoS/F5BAaSQ0sDeL4bF1tOW3+bs9403Zo24Ag==",
+  "dgSpecHash": "KC8SVHuCFIJj7f9lcpCIOsX7W3kU28elIdDJvnO9yCT5xHmqT/vp7Adku8F3T4B0M+b8U2j5+/6pEDuHtMtX9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shahzod\\Desktop\\Darsliklar\\Xarajat.Api\\Xarajat.Api\\Xarajat.Api.csproj",
+  "projectFilePath": "C:\\Users\\Shahzod\\Desktop\\C-Lessons\\Xarajat.Api\\Xarajat.Api\\Xarajat.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shahzod\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Shahzod\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.10\\microsoft.data.sqlite.core.6.0.10.nupkg.sha512",
