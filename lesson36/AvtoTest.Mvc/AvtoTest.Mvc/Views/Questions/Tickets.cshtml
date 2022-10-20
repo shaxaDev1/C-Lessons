@@ -1,0 +1,36 @@
+﻿@{
+     var ticketCount = ViewBag.count;
+    <p>Tickets</p>
+    <div class="TicketsBtn">
+    @for(int i = 0; i < ticketCount; i++){
+        <a asp-controller="Questions" asp-action="Index" asp-route-tIndex="@i">Ticket @(i+1)</a>
+                    }
+    </div>
+}
+
+
+<style>
+    p {
+        text-align:center;
+    }
+    .TicketsBtn{
+        display:flex;
+        align-items:center;
+        flex-direction:column;
+        text-align:center;
+    }
+   .TicketsBtn  a {
+        display: flex;  
+        display: inline-block;
+        justify-items: flex-end;
+        border-radius: 10px;
+        text-align:center;
+        padding: 10px;
+        margin: 5px;
+        width: 250px;
+        text-decoration: none;
+        background-color: yellow;
+        color: red;
+
+   }
+</style>

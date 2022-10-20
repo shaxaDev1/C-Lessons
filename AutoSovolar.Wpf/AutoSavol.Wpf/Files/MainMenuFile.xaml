@@ -1,0 +1,22 @@
+﻿<Page x:Class="AutoSavol.Wpf.Files.MainMenuFile"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AutoSavol.Wpf.Files"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="600"
+      Title="MainMenuFile" Background="Yellow">
+
+    <Grid>
+        <Label VerticalAlignment="Top" HorizontalAlignment="Center" Height="40" FontSize="20" Content="Menu"></Label>
+        <DockPanel HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,130">
+            <Button Name="QuestionsStatistka" Height="40" Width="150" Content="12/700" FontSize="20" />
+            <Button Name="TicketsStatistka" Margin="100,0,0,0" Height="40" Width="150" Content="12/35" FontSize="20" />
+        </DockPanel>
+        <StackPanel VerticalAlignment="Bottom" Margin="10">
+            <Button  Click="TicketButtonClick" Background="#FF4E4E0A"  Content="Tickets" Width="250" Height="40" FontSize="18" Margin="0,0,0,8" FontFamily="Bahnschrift SemiBold SemiCondensed" ></Button>
+            <Button Click="ExaminationButtonClick" Content="Examination" Width="250" Height="40" FontSize="18" Cursor="ScrollNS"></Button>
+        </StackPanel>
+    </Grid>
+</Page>

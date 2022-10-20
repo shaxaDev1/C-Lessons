@@ -1,0 +1,43 @@
+﻿<Page x:Class="AutoSavol.Wpf.Files.ExaminationFile"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AutoSavol.Wpf.Files"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="600"
+      Title="ExaminationFile" Background="DarkSeaGreen">
+    <Page.Resources>
+        <Style x:Key="CurrentTicketQuestionButtonStyle" TargetType="Button">
+            <Setter Property="Width" Value="35"/>
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="BorderBrush" Value="Yellow"/>
+            <Setter Property="BorderThickness" Value="5"/>
+            <Setter Property="Margin" Value="0,0,3,0"/>
+        </Style>
+        <Style x:Key="DefoultTicketQuestionButtonStyle" TargetType="Button">
+            <Setter Property="Width" Value="30"/>
+            <Setter Property="Height" Value="30"/>
+        </Style>
+    </Page.Resources>
+    <Grid>
+        <Label Name="Titel" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="20" Height="40" Content="Examination"></Label>
+        <ScrollViewer Margin="0,40,0,0" VerticalScrollBarVisibility="Disabled" HorizontalScrollBarVisibility="Visible" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <DockPanel Name="TicExamQuestionIndexButtonFile">
+                
+            </DockPanel>
+        </ScrollViewer>
+        <StackPanel Margin="0,100,0,45" >
+            <Image Name="QuestionImages" Source="/Files/noImage.png" Width="200" Height="200"/>
+            <TextBlock Name="QuestionText" Margin="10" FontSize="16" Text="1 Savol " TextWrapping="Wrap"/>
+            <ScrollViewer MaxHeight="150">
+                <StackPanel Name="ChoicesFile" Margin="0,0,0,20">
+
+                </StackPanel>
+            </ScrollViewer>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Right" VerticalAlignment="Bottom">
+            <Button Click="MenuButton" Content="Menu" Height="30" Width="100" Margin="5" />
+        </StackPanel>
+    </Grid>
+</Page>

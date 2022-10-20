@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "vIeGhhdaooi7IiazP2NUTtvzYx1aek0QFfX9Mx1GVOc=",
+  "Source": "lesson35",
+  "BasePath": "_content/lesson35",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "lesson35\\wwwroot",
+      "Source": "lesson35",
+      "ContentRoot": "C:\\Users\\Shahzod\\Desktop\\Darsliklar\\lesson35\\lesson35\\wwwroot\\",
+      "BasePath": "_content/lesson35",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5C722i/04Rk+V5Ads/XzId/H79LvRKDjVCcmpa2Wweb2x9z2c61pVGhbjjDu7gLW/jTVugiOlavuHLH8YizZmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shahzod\\Desktop\\Darsliklar\\lesson1\\Avtotest.Database\\Avtotest.Database.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shahzod\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

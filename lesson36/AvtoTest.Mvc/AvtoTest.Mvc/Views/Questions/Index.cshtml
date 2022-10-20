@@ -1,0 +1,100 @@
+﻿
+@model AvtoTest.Mvc.Models.QuestionBase
+@{
+   
+    @for(int i = 0; i < ViewBag.tQuestionsCount; i++)
+    {
+        var index = i + 1;
+        <a class="choiceBtn" asp-controller="Questions" asp-action="Index" asp-route-tIndex=@ViewBag.tIndex asp-route-index=@i>@index</a>
+    }
+}
+
+<h1>@Model.Question</h1>
+
+
+@{
+    var imageSource = Model.Media.Exist? $"{Model.Media.Name}.png" : "noImage.png";
+}
+
+<img src="~/Images/@imageSource" width="200px" height="auto" />
+
+@{
+    <br>
+    <div class="choice-panel">
+            @for(int i =0; i < Model.Choices.Count; i++)
+    {
+        var choice = Model.Choices[i];
+            if(ViewBag.ChoiceResult != null)
+            {
+                if(ViewBag.ChoiceIndex == i)
+                {
+                    if (ViewBag.ChoiceResult)
+                    {
+                        <a class="choice" style="background:green">
+                        @choice.Text
+                        </a>
+                    }
+                    else
+                    {
+                        <a class="choice" style="background: red">
+                            @choice.Text
+                        </a>
+                    }
+                    
+                }
+                else
+                {
+                    <a class="choice" >
+                        @choice.Text
+                    </a> 
+                }
+
+            }
+            else
+            {
+                <a class="choice" asp-controller="Questions" asp-action="Index" 
+                asp-route-tIndex=@ViewBag.tIndex asp-route-index=@ViewBag.qIndex asp-route-choiceIndex=@i>@choice.Text
+                </a> 
+            }
+
+                                           
+    }
+    </div>
+
+}
+
+
+<style>
+    .choiceBtn{
+        display:inline-block;        
+        border-radius: 5px;
+        color:red;
+        background-color:yellow;
+        text-align: center;
+        margin: 2px;
+        padding: 3px;
+        width: 40px;
+        text-decoration: none;
+    }
+    .choice{
+        display:flex;
+        width: 400px;
+        border-radius: 10px;
+        background-color: yellow;
+        text-align:center;
+        padding: 5px;
+        margin: 5px;
+        text-decoration: none;
+    }
+    .choice:hover{
+        background: #999 ;
+    }
+    .choice-panel{
+        display: inline-block;
+        text-align:center;
+        align-items:center;
+        flex-direction: column;
+        width: 400px;
+
+    }
+</style>

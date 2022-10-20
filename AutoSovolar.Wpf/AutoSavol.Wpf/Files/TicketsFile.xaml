@@ -1,0 +1,22 @@
+﻿<Page x:Class="AutoSavol.Wpf.Files.TicketsFile"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AutoSavol.Wpf.Files"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="600"
+      Title="TicketsFile" Background="BurlyWood">
+
+    <Grid>
+        <Label VerticalAlignment="Top" HorizontalAlignment="Center" Height="40" FontSize="20" Content="Ticket"></Label>
+        <ScrollViewer Margin="0,40,0,35">
+            <StackPanel  Name="TicketButtonFile">
+               
+            </StackPanel>
+        </ScrollViewer>
+        <StackPanel HorizontalAlignment="Right" VerticalAlignment="Bottom">
+            <Button Click="MainButton" Content="Menu" Height="30" Width="100" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Page>

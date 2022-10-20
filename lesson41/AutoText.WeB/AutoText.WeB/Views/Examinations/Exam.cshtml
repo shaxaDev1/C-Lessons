@@ -1,0 +1,55 @@
+﻿@model QuestionBase;
+
+@{
+    var ticket = (Ticket)ViewBag.Ticket;
+
+    ViewData["Title"] = "Ticket" + ticket.Id;
+    var imageUrl = string.IsNullOrEmpty(Model.Image)
+    ? "noImage.png" : Model.Image + ".png";
+
+    var ticketData = (List<TicketData>)ViewBag.TicketData;
+
+}
+@for (int i = ticket.FromIndex; i < ticket.FromIndex + ticket.QuestionsCount; i++){
+
+    var btnIndex = i - ticket.FromIndex + 1;
+
+    var questionIndexModul = i == Model.Id ? "btn btn-primary" : "btn btn-secondary";
+
+    var questionData = ticketData.FirstOrDefault(data => data.QuestionId == i);
+    if(questionData != null)
+    {
+        if (questionData.Answer == true)
+            questionIndexModul = "btn btn-success";
+        else
+            questionIndexModul = "btn btn-danger";
+    }
+    <a  class="@questionIndexModul" asp-action="Exam"
+    asp-route-ticketId="@ticket.Id" 
+    asp-route-questionId="@i">@btnIndex</a>
+}
+
+<br>
+<img class="w-25 mt-5" src="~/Images/@imageUrl" />
+
+<h3>@Model.Question</h3>
+ <ol>
+@foreach(var choice in Model.Choices!)
+{
+    var modul = "btn btn-info mb-3";
+
+    if(choice.Id == ViewBag.ChoiceId)
+    {
+        modul = ViewBag.Answer == true 
+        ? "btn btn-success mb-3" : "btn btn-danger mb-3";
+    }
+   <li>
+    <a  asp-action="Exam"
+    asp-route-ticketId="@ticket.Id" asp-route-questionId="@Model.Id" 
+    asp-route-choiceId="@choice.Id" class="@modul">@choice.Text</a></li>
+    <br>
+
+
+
+}
+</ol>

@@ -1,0 +1,9 @@
+﻿@model lesson35.Models.User
+
+
+<form asp-controller="Users" asp-action="EditUser" method="post">
+    <input type="text" name="Name" value="@Model.Name"/>
+    <input type="text" name="Phone" value="@Model.Phone" />
+    <input type="number" name="Index" value="@ViewBag.UserIndex" />
+    <input type="submit" name="Submit"/>
+</form>

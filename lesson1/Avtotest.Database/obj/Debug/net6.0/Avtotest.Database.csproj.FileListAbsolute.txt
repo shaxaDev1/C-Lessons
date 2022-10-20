@@ -1,0 +1,12 @@
+C:\Users\Shahzod\Desktop\darsliklar\lesson1\Avtotest.Database\bin\Debug\net6.0\Avtotest.Database.deps.json
+C:\Users\Shahzod\Desktop\darsliklar\lesson1\Avtotest.Database\bin\Debug\net6.0\Avtotest.Database.dll
+C:\Users\Shahzod\Desktop\darsliklar\lesson1\Avtotest.Database\bin\Debug\net6.0\Avtotest.Database.pdb
+C:\Users\Shahzod\Desktop\darsliklar\lesson1\Avtotest.Database\obj\Debug\net6.0\Avtotest.Database.csproj.AssemblyReference.cache
+C:\Users\Shahzod\Desktop\darsliklar\lesson1\Avtotest.Database\obj\Debug\net6.0\Avtotest.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahzod\Desktop\darsliklar\lesson1\Avtotest.Database\obj\Debug\net6.0\Avtotest.Database.AssemblyInfoInputs.cache
+C:\Users\Shahzod\Desktop\darsliklar\lesson1\Avtotest.Database\obj\Debug\net6.0\Avtotest.Database.AssemblyInfo.cs
+C:\Users\Shahzod\Desktop\darsliklar\lesson1\Avtotest.Database\obj\Debug\net6.0\Avtotest.Database.csproj.CoreCompileInputs.cache
+C:\Users\Shahzod\Desktop\darsliklar\lesson1\Avtotest.Database\obj\Debug\net6.0\Avtotest.Database.dll
+C:\Users\Shahzod\Desktop\darsliklar\lesson1\Avtotest.Database\obj\Debug\net6.0\refint\Avtotest.Database.dll
+C:\Users\Shahzod\Desktop\darsliklar\lesson1\Avtotest.Database\obj\Debug\net6.0\Avtotest.Database.pdb
+C:\Users\Shahzod\Desktop\darsliklar\lesson1\Avtotest.Database\obj\Debug\net6.0\ref\Avtotest.Database.dll

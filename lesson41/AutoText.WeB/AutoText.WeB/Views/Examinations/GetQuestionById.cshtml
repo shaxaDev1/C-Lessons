@@ -1,0 +1,16 @@
+﻿@model QuestionBase;
+@{
+    ViewData["Title"] = Model.Question;
+
+    var imageUrl = string.IsNullOrEmpty(Model.Image)
+    ? "noImage.png" : Model.Image + ".png";
+}
+
+<img src="~/Images/@imageUrl"/>
+
+<h1>@Model.Question</h1>
+
+@foreach (var choice in Model.Choices!)
+{
+    <h5>@choice.Text</h5>
+}

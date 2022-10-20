@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Hb/MRApSc4AiLMas/s7ec5VUC87rR9lQZ0i3MesDeX8=",
+  "Source": "WebMvc",
+  "BasePath": "_content/WebMvc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebMvc\\wwwroot",
+      "Source": "WebMvc",
+      "ContentRoot": "C:\\Users\\Shahzod\\Desktop\\Darsliklar\\lesson36\\WebMvc\\WebMvc\\wwwroot\\",
+      "BasePath": "_content/WebMvc",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
