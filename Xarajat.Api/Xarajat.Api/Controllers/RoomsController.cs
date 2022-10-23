@@ -21,7 +21,7 @@ public class RoomsController : ControllerBase
     [HttpGet]
     public IActionResult GetRooms()
     {
-        var rooms = _context.Rooms.ToList().Select(room => ConvertToGetRoomModel(room)).ToString();
+        var rooms = _context.Rooms.ToList().Select(room => ConvertToGetRoomModel(room)).ToList();
 
         return Ok(rooms);
     }
@@ -94,7 +94,7 @@ public class RoomsController : ControllerBase
             Name = room.Name,
             Key = room.Key,
             Status = room.Status,
-            Admin = ConverToGetUserModel(room.Admin)
+            Admin = room.Admin == null ? null : ConverToGetUserModel(room.Admin)
         };
     }
 

@@ -78,7 +78,20 @@ public class UsersController : ControllerBase
         return Ok();
     }
 
+    [HttpPost("join-room/{roomId}")]
 
+    public IActionResult JoinRoom(int roomId, string key)
+    {
+        int userId = 2;
+
+        var room = _context.Rooms.Any(r => r.Id == roomId);
+
+        var user = _context.Users.FirstOrDefault(u => u.Id == 2);
+
+        user.RoomId = roomId;
+        _context.SaveChanges();
+        return Ok(user);
+    }
 }
 
 
